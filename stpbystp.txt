@@ -7,7 +7,7 @@ Git config --global user.name "nombre"				/*Cambia nombre
 Git commit											/*Sube arbol actual	(abre editor de comentarios)
 Git commit -m "comentario"							/*Sube arbol actual (sin abrir editor)		
 Git log												/*Muestra progreso del arbol
-Git remte add origin direccion del repositorio		/*Prepara todo para subir a la direccion
+Git remote add origin direccion del repositorio		/*Prepara todo para subir a la direccion
 Git push -u origin master							/*Sube los datos a internet (requiere nombre y contra de github)
 
 EXTRAS -----------------
