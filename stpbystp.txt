@@ -15,3 +15,4 @@ EXTRAS -----------------
 git status											/*Muestra si hubo cambios en el arbol
 git checkout -- archivo								/*Revierte cambios de archivos
 git diff archivo 									/*Muestra el codigo que cambio en el archivo
+git clone direccion del repodownload				/*Clona el repo en una carpeta
