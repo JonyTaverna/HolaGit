@@ -1,0 +1,15 @@
+Git bash here
+Git init											/*Inicia el proceso git
+Git add archivo										/*Agrega archivo	
+Git config --global user.email "el-mail-de-bash"	/*Cambia mail
+Git config --global user.name "nombre"				/*Cambia nombre
+-- Crear un archivo de texto .gitignore				/*Escribo dentro los archivos que no deseo agregar
+Git commit											/*Sube arbol actual	(abre editor de comentarios)
+git commit -m "comentario"							/*Sube arbol actual (sin abrir editor)		
+Git log												/*Muestra progreso del arbol
+
+EXTRAS -----------------
+
+git status											/*Muestra si hubo cambios en el arbol
+git checkout -- archivo								/*Revierte cambios de archivos
+git diff archivo 									/*Muestra el codigo que cambio en el archivo
